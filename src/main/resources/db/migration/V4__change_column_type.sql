@@ -1,0 +1,1 @@
+ALTER TABLE beer_order MODIFY COLUMN version bigint;
